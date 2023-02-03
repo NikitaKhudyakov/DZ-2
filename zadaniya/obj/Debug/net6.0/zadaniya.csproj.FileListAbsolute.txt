@@ -1,0 +1,15 @@
+C:\Users\никита\Desktop\DZ#2\zadaniya\obj\Debug\net6.0\zadaniya.csproj.AssemblyReference.cache
+C:\Users\никита\Desktop\DZ#2\zadaniya\obj\Debug\net6.0\zadaniya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\никита\Desktop\DZ#2\zadaniya\obj\Debug\net6.0\zadaniya.AssemblyInfoInputs.cache
+C:\Users\никита\Desktop\DZ#2\zadaniya\obj\Debug\net6.0\zadaniya.AssemblyInfo.cs
+C:\Users\никита\Desktop\DZ#2\zadaniya\obj\Debug\net6.0\zadaniya.csproj.CoreCompileInputs.cache
+C:\Users\никита\Desktop\DZ#2\zadaniya\bin\Debug\net6.0\zadaniya.exe
+C:\Users\никита\Desktop\DZ#2\zadaniya\bin\Debug\net6.0\zadaniya.deps.json
+C:\Users\никита\Desktop\DZ#2\zadaniya\bin\Debug\net6.0\zadaniya.runtimeconfig.json
+C:\Users\никита\Desktop\DZ#2\zadaniya\bin\Debug\net6.0\zadaniya.dll
+C:\Users\никита\Desktop\DZ#2\zadaniya\bin\Debug\net6.0\zadaniya.pdb
+C:\Users\никита\Desktop\DZ#2\zadaniya\obj\Debug\net6.0\zadaniya.dll
+C:\Users\никита\Desktop\DZ#2\zadaniya\obj\Debug\net6.0\refint\zadaniya.dll
+C:\Users\никита\Desktop\DZ#2\zadaniya\obj\Debug\net6.0\zadaniya.pdb
+C:\Users\никита\Desktop\DZ#2\zadaniya\obj\Debug\net6.0\zadaniya.genruntimeconfig.cache
+C:\Users\никита\Desktop\DZ#2\zadaniya\obj\Debug\net6.0\ref\zadaniya.dll
